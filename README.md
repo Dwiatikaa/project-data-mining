@@ -1,4 +1,4 @@
-# project data mining
+# Project Data Mining
 
 **Latar Belakang**
 
